@@ -1,2 +1,3 @@
-# C_language_-lectureship
-C言語講座の記録です
+# C_language_lectureship
+
+ここでシス研で行ったC言語講座をいつでも見られるようにしています
